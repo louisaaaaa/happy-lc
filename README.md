@@ -1,4 +1,4 @@
 # happy-lc
-Happy Leetcode preparation 😎🤏🏻😭
+Happy LC preparation 😎🤏🏻😭
 
-[LeetCode Company List](company_list.md) collection of LeetCode problems categorized by company.
+[LC Company List](company_list.md) collection of LC problems categorized by company.

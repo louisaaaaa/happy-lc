@@ -1,4 +1,4 @@
-# LeetCode Questions by Company
+# LC Questions by Company
 
 ## TikTok
 - [#210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) (Medium)
